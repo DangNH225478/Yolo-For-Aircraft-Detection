@@ -19,3 +19,6 @@ YoloV3-5-6-7-8:
         - Change the directory to the mydataset.yaml and the pretrained weights in "Pretrained Weights" if you want to retrain
         - Change the path to the correct finetuned weights in ("Weights") and the path to the image you want to infer (It will also save the infered file to your drive, except v6, v6 will just show the infered image)
     Finally, running the cells in the notebook will install all necessary libraries, re-run the training and evaluation (Results will be save into your drive)
+
+The Dataset can be found at https://drive.google.com/drive/u/0/folders/1KH2hrBb50c828ks0dhnTZEQCBA2WxdVv
+The trained weights can be found at https://drive.google.com/drive/u/0/folders/1I2_ogRiqXCb1gpfBQJJzIO4UqASduDvl
